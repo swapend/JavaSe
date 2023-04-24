@@ -1,4 +1,4 @@
-package work;
+package project01_sort;
 
 import java.io.*;
 import java.util.ArrayList;
